@@ -4,7 +4,7 @@ For more information, updates, and to view the change log, please visit the proj
 https://code.google.com/p/scriptblock/
 
 To contact the author, visit the project homepage above and leave a comment, or you can e-mail:
-contact@optimalcycling.com
+compvid30@gmail.com
 
 ScriptBlock
     Copyright © 2013  Oliver von Schleusen 
